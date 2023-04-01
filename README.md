@@ -5,7 +5,7 @@
 ## Aplikasi ini Berbayar 
 Terdapat sebuah password didalam nya, untuk mendapatkan nya klik <a href="https://github.com/MuhamadRifqiAshari" target="_blank" class="animate__animated animate__bounceInLeft">Disini</a>
 
-# Aplikasi Pembayaran SPP
+# Login Multi User Menampilkan Nilai C++
 Aplikasi SPP (Sistem Pembayaran Siswa) adalah sebuah aplikasi desktop berbasis Java yang digunakan untuk membantu proses pembayaran SPP di sekolah. Aplikasi ini dirancang untuk memudahkan proses pembayaran SPP, seperti mencatat pembayaran, menghitung jumlah yang harus dibayarkan, dan menghasilkan laporan keuangan.
 
 ## Ringkasan
@@ -31,7 +31,7 @@ username : Budi <br/>
 password : budi12345
 
 
-<h3>Preview Aplikasi Aplikasi Restoran Web</h3>
+<h3>Preview Tampilan Login Multi User Menampilkan Nilai C++</h3>
 <p>Tampilan Walas</p>
 <img src="https://raw.githubusercontent.com/MuhamadRifqiAshari/LSP_C-/main/Dokumentasi/Tampilan%20walas.png">
 
